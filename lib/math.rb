@@ -24,8 +24,8 @@ end
 
 def modulo(num1, num2)
  modulo = num2 % num1
-puts "#{modulo}"
-modulo
+ puts "#{modulo}"
+ modulo
 end
 
 def square_root(num)
