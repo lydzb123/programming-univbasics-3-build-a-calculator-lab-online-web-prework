@@ -29,7 +29,6 @@ modulo
 end
 
 def square_root(num)
-  square_root = math.sqrt(num)
-  puts "#{square_root}"
-  square_root
+  puts Math.sqrt(num)
+  Math.sqrt(num)
 end
