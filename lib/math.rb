@@ -5,9 +5,7 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  subtracts = num2 - num1
-  puts "#{subtracts}"
-  subtracts
+  puts num2 - num1
 end
 
 def division(num1, num2)
