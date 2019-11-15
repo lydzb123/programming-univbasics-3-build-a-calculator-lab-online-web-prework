@@ -17,7 +17,7 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-  multiplies = num1 * num2
+  product = num1 * num2
   puts "#{multiplies}"
   multiplies
 end
